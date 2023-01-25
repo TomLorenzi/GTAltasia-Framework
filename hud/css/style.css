@@ -1,0 +1,26 @@
+html {
+    overflow: hidden;
+}
+
+#hud {
+    position: absolute;
+    font-family: 'Pricedown';
+    font-size: 35px;
+    color: white;
+    padding: 4px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    text-align: right;
+    top: 80;
+    right: 40;
+}
+
+#money {
+    font-size: 0.5em;
+}
+
+#logo {
+    position: absolute;
+    max-width: 150px;
+    bottom: 5;
+    right: 0;
+}
